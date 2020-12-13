@@ -13,6 +13,11 @@ Wearable devices can monitor and record real-time information about one’s phys
 ## Hardware Requirements
 Raspberry Pi, 8gb MicroSD, Breadboard & Jumper Cables, Any Optical Heart-Rate Sensor
 
+## Basic Hardware Setup 
+*Note LEDS are not connected
+
+
+
 ## User-Level Requirements
 The intended device is meant to be low-cost, low-powered, the device should be easy-to-use and user friendly. Users should be able to view their inormation on the Azure web application.
 
