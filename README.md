@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/AznStevy/Heart-Rate-Monitor.svg?branch=master)](https://travis-ci.com/AznStevy/Heart-Rate-Monitor)
 
-# Fit Hub - Heart Rate Moinitor
+# FitHub - Heart Rate Moinitor
 Wearable devices can monitor and record real-time information about one’s physiological condition and motion activities. These wearable sensors can measure physiological signs such as heart rate, body temperature and motion detection. Continuous monitoring of physiological signals could help to detect and diagnose several cardiovascular, neurological, and pulmonary diseases at their early onset. The wearable health monitoring systems are usually equipped with a variety of electronic sensors, actuators, wireless communication modules and signal processing units.  The measurements obtained by the sensors connected in a wireless Body Sensor Network, are transmitted to a nearby processing node using a suitable communication protocol, preferably a low-power and short-range wireless medium, for example, Bluetooth. The processing node, which could be a smartphone, computer, again for this project the node gateway will be the raspberry pi, which will also run advanced processing, analysis, and decision algorithms and may also store and display the results to the user by communicating with the cloud Azure IoT hub. It transmits the measured data over the internet to the healthcare personnel, thus functioning as the gateway to remote healthcare facilities.
 
 ## Hardware Requirements
