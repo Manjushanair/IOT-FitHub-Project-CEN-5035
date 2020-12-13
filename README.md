@@ -15,7 +15,7 @@ Raspberry Pi, 8gb MicroSD, Breadboard & Jumper Cables, Any Optical Heart-Rate Se
 
 ## Basic Hardware Setup 
 *Note LEDS are not connected
-![Sample Build]( https://photos.app.goo.gl/U5Sfju2JZen8cCqq7 )
+![Example Figure](https://photos.app.goo.gl/U5Sfju2JZen8cCqq7)
 
 
 
