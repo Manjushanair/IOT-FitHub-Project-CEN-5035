@@ -4,9 +4,11 @@
 Wearable devices can monitor and record real-time information about one’s physiological condition and motion activities. These wearable sensors can measure physiological signs such as heart rate, body temperature and motion detection. Continuous monitoring of physiological signals could help to detect and diagnose several cardiovascular, neurological, and pulmonary diseases at their early onset. The wearable health monitoring systems are usually equipped with a variety of electronic sensors, actuators, wireless communication modules and signal processing units.  The measurements obtained by the sensors connected in a wireless Body Sensor Network, are transmitted to a nearby processing node using a suitable communication protocol, preferably a low-power and short-range wireless medium, for example, Bluetooth. The processing node, which could be a smartphone, computer, again for this project the node gateway will be the raspberry pi, which will also run advanced processing, analysis, and decision algorithms and may also store and display the results to the user by communicating with the cloud Azure IoT hub. It transmits the measured data over the internet to the healthcare personnel, thus functioning as the gateway to remote healthcare facilities.
 
 This is code that acts as a heart rate analyzer (rather than a monitor). It can determine heartbeats based on two different algorithms: Thresholding and Wavelet transform + Thresholding. I've found the Wavelet method to work the best. The goal here was for anyone to write their own detection method and be able to use it with the `HeartRateMonitor` class.
+## Hardware Requirements
+Raspberry Pi, 
 
 ## Installation
-Using a virtual environment with a python environmental variable, run the command below to get the necessary packages: ```pip install -r requirements.txt```
+Using a any virtual environment with a python environmental variable, run the command below to get the necessary packages: ```pip install -r requirements.txt```
 
 ## Structure
 ### `FileHandler`
